@@ -134,6 +134,9 @@ projects[migrate][subdir] = "contrib/"
 projects[block_titlelink][type] = "module"
 projects[block_titlelink][subdir] = "contrib/"
 
+projects[fe_block][type] = "module"
+projects[fe_block][subdir] = "contrib/"
+
 projects[ninesixty][type] = "theme"
 projects[ninesixty][subdir] = "contrib/"
 
